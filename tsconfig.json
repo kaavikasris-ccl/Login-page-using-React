@@ -6,11 +6,6 @@
     "strict": true,
     "moduleResolution": "bundler",
 
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["src/*"]
-    },
-
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "skipLibCheck": true
